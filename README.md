@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
     <h1>Hi there, I'm  Vasily </h1>
     <h3> Java Developer from Berlin </h3>
@@ -35,10 +35,10 @@
 ### My Stat
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SokolovVasily
-&theme=github_white" alt=""/>
+&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SokolovVasily
-&theme=github_white" alt=""/>
+&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SokolovVasily
-&theme=github_white" alt=""/>
+&theme=github_dark" alt=""/>
 </div>
 
